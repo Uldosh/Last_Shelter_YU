@@ -1,5 +1,5 @@
-# Last_Shelter_YU
-Last Shelter is a single-player survival text adventure game built with Java and libGDX. The player manages an underground bunker after a global catastrophe, making daily decisions to survive, maintain resources, and uncover the truth behind the bunker’s mysterious AI system.
+# LAST SHELTER
+
 LAST SHELTER is a Java and libGDX desktop bunker-survival prototype. The player explores a compact 3D bunker in first person, repairs systems through world interactions and lightweight mini-games, follows a strict monitoring AI, manages survival resources, and tries to survive ten in-game days.
 
 ## Features
