@@ -1,0 +1,13 @@
+.gradle/
+build/
+core/build/
+desktop/build/
+.idea/
+.vscode/
+*.iml
+*.log
+*.tmp
+*.bak
+hs_err_pid*
+out/
+dist/
