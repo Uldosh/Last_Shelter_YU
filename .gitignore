@@ -11,3 +11,4 @@ desktop/build/
 hs_err_pid*
 out/
 dist/
+desktop/*.xml~
