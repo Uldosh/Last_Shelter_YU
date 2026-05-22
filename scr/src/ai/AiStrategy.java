@@ -1,4 +1,10 @@
 package ai;
 
-public class AiStrategy {
+public interface AiStrategy {
+    String objectiveSuggestion(String objective);
+
+    String actionComment(String taskName);
+
+    String warning(String warning);
 }
+
